@@ -1,4 +1,4 @@
-# Digital Watermark  <img width="64" height="64" alt="DW Logo" src="https://github.com/user-attachments/assets/d5c86cd5-a1a8-4255-9cb5-ff33f360d308" />
+# Digital Watermark  <img width="32" height="32" alt="DW Logo" src="https://github.com/user-attachments/assets/d5c86cd5-a1a8-4255-9cb5-ff33f360d308" />
 
 Windows desktop app that displays system information as a watermark on the desktop. Similar to BGinfo but better!
 
