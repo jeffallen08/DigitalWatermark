@@ -8,11 +8,11 @@ Digital Watermark is a lightweight Windows desktop application that displays sys
 
 Features:
 
->Displays computer name, domain\user, IP address, and system uptime as a desktop watermark
->Embeds into the Windows desktop layer — stays behind all windows and is fully click-through
->System tray integration with quick access to detailed system information (OS, CPU, memory, serial number, MAC address, and more)
->Configurable settings: choose which fields to display, text size, screen corner, and opacity
->Administrator lockdown support — deploy with locked settings via policy file so end users cannot change the configuration
->Professional installer with customizable defaults and admin lockdown options
->Auto-start with Windows support
->Native Windows 10/11 look and feel
+* Displays computer name, domain\user, IP address, and system uptime as a desktop watermark
+* Embeds into the Windows desktop layer — stays behind all windows and is fully click-through
+* System tray integration with quick access to detailed system information (OS, CPU, memory, serial number, MAC address, and more)
+* Configurable settings: choose which fields to display, text size, screen corner, and opacity
+* Administrator lockdown support — deploy with locked settings via policy file so end users cannot change the configuration
+* Professional installer with customizable defaults and admin lockdown options
+* Auto-start with Windows support
+* Native Windows 10/11 look and feel
