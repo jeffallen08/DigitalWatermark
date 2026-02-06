@@ -2,9 +2,9 @@
 Windows desktop app that displays system information as a watermark on the desktop. Similar to BGinfo but better!
 
 <img width="993" height="941" alt="DigitalWatermarkPreview" src="https://github.com/user-attachments/assets/f5a8858a-969f-4dcb-8d74-f74cb903de04" />
+<p>
 
-
-Digital Watermark is a lightweight Windows desktop application that displays system information as a semi-transparent watermark directly on your desktop. Designed for IT administrators and enterprise environments, it provides at-a-glance visibility into key system details without interrupting your workflow.
+**Digital Watermark** is a lightweight Windows desktop application that displays system information as a semi-transparent watermark directly on your desktop. Designed for IT administrators and enterprise environments, it provides at-a-glance visibility into key system details without interrupting your workflow.
 
 Features:
 
